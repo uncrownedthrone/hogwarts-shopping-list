@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
-import HelloWorld from './components/HelloWorld'
+import ShoppingListComp from './components/ShoppingListComp'
 
 const App = () => {
-  return <HelloWorld />
+  return <ShoppingListComp />
 }
 
 export default App
